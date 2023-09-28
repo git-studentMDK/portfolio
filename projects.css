@@ -1,0 +1,41 @@
+/* Add CSS styles for your Projects page here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #305dc5;
+    color: #fff;
+    text-align: center;
+    padding: 0px ;
+    padding-top: 10px;
+    font-size: 40px;
+    height: 60px;
+}
+
+.projects {
+    margin: 20px;
+    
+}
+
+.project {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+
+.project h2 {
+    margin-top: 0;
+    border: 2px solid #8ac71a;
+    background-color: #8ac71a;
+
+}
+nav{
+    padding-left: 10px;
+    padding-top: 10px;
+    border:2px wheat solid;
+    background-color: wheat;
+}
